@@ -1,0 +1,2 @@
+-- Retired: this Supabase migration describes an obsolete schema.
+-- Pixora's PostgreSQL schema is provisioned independently; do not apply this file.
